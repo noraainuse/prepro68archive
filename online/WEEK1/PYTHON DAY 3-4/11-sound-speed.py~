@@ -1,0 +1,11 @@
+"""soundspeed"""
+
+
+def main():
+    """main"""
+    text = "Nano"
+    print("My " + "Name is " + text)
+    print(text)
+
+
+main()

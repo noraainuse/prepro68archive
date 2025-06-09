@@ -1,0 +1,12 @@
+"""binarytodecimal"""
+
+
+def main():
+    """main"""
+    w1 = str(input())
+    w2 = w1 + str(input())
+    print(f"Binary number: {w2}")
+
+
+main()
+
